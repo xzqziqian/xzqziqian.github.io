@@ -69,3 +69,11 @@ body{
 	color:black;
 	border-bottom: 2px solid #5e5e5e;
 }
+
+.pubs-container, .pres-container{
+	border-bottom: 1px solid #5e5e5e;
+	padding-bottom:2em;
+	padding-top:2em;
+	display: none;
+}
+
