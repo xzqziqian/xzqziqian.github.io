@@ -5,6 +5,7 @@ body{
 .web-container{
 	width:50%;
 	margin:auto;
+	display: none;
 }
 
 #proj-container{
@@ -74,6 +75,6 @@ body{
 	border-bottom: 1px solid #5e5e5e;
 	padding-bottom:2em;
 	padding-top:2em;
-	display: none;
 }
+
 
