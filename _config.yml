@@ -11,7 +11,12 @@ author: Ziqian Xu
 language: en
 timezone: ''
 
-
+# 开启对prismjs的支持
+# prismjs:
+#   enable: true
+#   preprocess: false
+#   line_number: true 
+#   tab_replace: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -99,7 +104,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: tranquility
+theme: minima
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
