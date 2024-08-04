@@ -28,6 +28,8 @@ tcolor: 0FA0CE
 # Relative to source/ directory
 usercss: css/user.css
 
+post_asset_folder: true
+
 # social profile at the footer/bottom
 footer: true
 placename: Earth

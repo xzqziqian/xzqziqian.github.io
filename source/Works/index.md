@@ -14,7 +14,8 @@ date: 2024-08-02 13:09:44
 - Mai, Y., Xu, Z., Zhang, Z., & Yuan, K. H. (2022). An open-source WYSIWYG web application for drawing path diagrams of structural equation models. Structural Equation Modeling: A Multidisciplinary Journal, 1-8. DOI: 10.1080/10705511.2022.2101460.
 - Xu, Z., Hai, J., Yang, Y., & Zhang, Z. (2022). Comparison of methods for imputing social network data. Journal of Data Science, 1-20. DOI: 10.6339/22-JDS1045.
 
-CONFERENCE PRESENTATIONS
+### Conference Presentations
+
 - Xu Z. & Zhang Z. (July 2023; Shanghai, China). Integrating structural equation modeling with social network analysis. Annual Meeting of International Society for Data Science and Analytics. 
 - Xu Z., Hai J., Yang Y., & Zhang Z. (August 2022; Minneapolis, US). Comparison of methods for imputing social network data. American Psychological Association Convention. 
 - Xu Z., Hai J., Yang Y., & Zhang Z. (May 2022; South Bend, US). Comparison of methods for imputing social network data. Annual Meeting of International Society for Data Science and Analytics. 

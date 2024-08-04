@@ -17,19 +17,19 @@ Teaching Assistant
 
 Data Analysis Intern (mentor: Jessica Baker) 							     
 - May 2020 – May 2021
-- Center of Excellence for Eating Disorders, University of North Carolina at Chapel Hill               			 
+- Center of Excellence for Eating Disorders, University of North Carolina at Chapel Hill
 
 Web Development Research Assistant (PI: Kihyun Ryoo)                			              	               
-- August 2019 – April 2021                                                                                                          - School of Education, University of North Carolina at Chapel Hill                                                                            
+- August 2019 – April 2021
+- School of Education, University of North Carolina at Chapel Hill
 
 Psychology Independent Research (mentor: Patrick Curran) 				     
 - August 2020 – November 2020
-- Department of Psychology and Neuroscience, University of North Carolina at Chapel Hill             	                                                                                                       
+- Department of Psychology and Neuroscience, University of North Carolina at Chapel Hill
 
 Research Assistant (PI: Margaret Sheridan)			        		                    
 - January 2019 - December 2019
-- CIRCLE Lab, University of North Carolina at Chapel Hill   							   
-
+- CIRCLE Lab, University of North Carolina at Chapel Hill
 
 Research Assistant (PI: Mitch Prinstein)							                
 - August 2018 - May 2019
