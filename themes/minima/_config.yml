@@ -11,7 +11,7 @@ desc: "I am a current graduate student at the University of Notre Dame studying 
 
 #menu
 menu:
-  About: /About
+  About: /about
   Works: /Works
   Experience: /Experience
 
