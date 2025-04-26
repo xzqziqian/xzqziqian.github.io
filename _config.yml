@@ -8,7 +8,10 @@ subtitle: ''
 description: ''
 keywords:
 author: Ziqian Xu
-language: en
+language:
+  - en
+  - zh-CN
+
 timezone: ''
 
 # 开启对prismjs的支持
@@ -20,7 +23,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://iasnobmatsu.github.io/
+url: http://xzqziqian.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -110,7 +113,7 @@ theme: minima
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/iasnobmatsu/iasnobmatsu.github.io.git
+  repo: https://github.com/xzqziqian/xzqziqian.github.io.git
   branch: gh-pages
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
 

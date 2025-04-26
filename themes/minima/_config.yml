@@ -3,18 +3,22 @@ title: "Hello!"
 
 #main info
 #owner
-owner: "Ziqian Xu"
-email: zxu9@nd.edu
+owner: "徐子谦 Ziqian Xu"
+# email: zxu9@nd.edu
 info: ""
 #description
-desc: "I am a current graduate student at the University of Notre Dame studying Quantitative Psychology. My research interest mainly lies in social network analysis and longitudinal data analysis. I am also interested in various data visualization techniques and machine learning. In my free time, I play Genshin a lot, and I love animes such as Attack on Titan and Neon Genesis Evangelion. "
+desc: 
 
 #menu
 menu:
-  About: /about
+  # About: /about
   Works: /Works
   Experience: /Experience
 
+
+language:
+  - en
+  - zh-CN
 
 #index/main page max show posts (in number)
 max_post: 4
@@ -32,9 +36,9 @@ post_asset_folder: true
 
 # social profile at the footer/bottom
 footer: true
-placename: Stardew Valley
+placename: home
 placelink: https://www.stardewvalley.net/
-github: https://github.com/iasnobmatsu
+github: https://github.com/xzqziqian
 linkedin: https://www.linkedin.com/in/ziqianxu/
 # twitter: https://twitter.com/adisaktijrs
 # instagram: https://instagram.com/adisaktijrs
