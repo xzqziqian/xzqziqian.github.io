@@ -42,7 +42,33 @@ img {
   margin-bottom: 1%;
 }
 
+
+
+  #profileimg{
+    display: none;
+  }
+
+
+  .education-item .institution {
+    /* font-size: ; */
+    color: #555;
+  }
+  
+  .education-item .institution .date {
+    float: right;
+    font-style: italic;
+    color: #777;
+  }
+
+
 @media (min-width: 550px) {
+
+  #profileimg{
+    display: block;
+    border-radius: 50%; width: 100px; margin-right: 20px
+  }
+
+
   /*
   Side by side gallery
   use with </> alignment
