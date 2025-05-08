@@ -1,7 +1,6 @@
 ---
 title: About
-date: 2024-08-07 10:49:33
-lang: en
+date: 2024-08-07
 ---
 
 

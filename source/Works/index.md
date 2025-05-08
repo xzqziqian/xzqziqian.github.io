@@ -1,7 +1,6 @@
 ---
 title: Works
-date: 2024-08-02 13:09:44
-lang: en
+date: 2024-08-02
 ---
 
 ### Publications

@@ -1,7 +1,6 @@
 ---
 title: Experience
-date: 2024-08-02 13:20:04
-lang: en
+date: 2024-08-02
 ---
 
 ### Research Experience
